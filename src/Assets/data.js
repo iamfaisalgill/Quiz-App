@@ -1,6 +1,6 @@
 const data = [
     {
-      question: "Which fucking device is required for the Internet connection?",
+      question: "Which device is required for the Internet connection?",
       option1: "Modem",
       option2: "Router",
       option3: "LAN Cable",
